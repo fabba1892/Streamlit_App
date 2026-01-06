@@ -7,8 +7,8 @@ A modular, scalable **Streamlit Architect** solution designed for Telecommunicat
 ## 🚀 Quick Start
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/your-username/ops-command-center.git
-   cd ops-command-center
+   git clone https://github.com/fabba1892/Streamlit_App.py
+   cd your-folder
    ```
 2. **Install Dependencies:**
    ```bash
